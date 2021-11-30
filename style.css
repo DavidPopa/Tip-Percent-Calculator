@@ -1,0 +1,40 @@
+.container {
+  color: white;
+  font-size: 35px;
+  width: 600px;
+  background-color: rgb(48, 48, 168);
+  border-radius: 25px;
+  padding: 50px;
+  margin: auto;
+}
+label {
+  display: inline-block;
+  width: 300px;
+  margin-right: 25px;
+  padding: 15px;
+}
+
+input {
+  margin-right: 50px;
+  width: 100px;
+  height: 25px;
+  padding: 2.5px 40px;
+  text-align: center;
+}
+
+#calculate {
+  background-color: rgb(236, 46, 46);
+  color: white;
+  border: none;
+  border-radius: 15px;
+  width: 150px;
+  height: 35px;
+  font-size: 25px;
+  margin: 25px 200px 15px 200px;
+}
+#color-1 {
+  color: palevioletred;
+}
+#color-2 {
+  color: darkcyan;
+}
